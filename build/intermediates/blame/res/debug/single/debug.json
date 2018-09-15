@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\build\\intermediates\\res\\merged\\debug\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\Ashwani\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\903a54d2ce48e1095bb7a2ba674d50d5\\res\\layout\\__arcore_education.xml"
+    },
+    {
+        "merged": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\PROGRAMMING\\AugmentedReality\\Wikitude\\WikitudeSLAM\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    }
+]
